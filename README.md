@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsyssRS
-- 👀 I’m interested in Computer Engineering
+- 👀 I’m interested in Computer Engineering and Software Development
 - 🌱 I’m currently taking Coursera's IBM Full Stack Development Course
 
 <!---
